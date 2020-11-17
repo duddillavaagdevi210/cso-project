@@ -1,9 +1,9 @@
-# digimate
+# Trinetra
 An android application for image to text conversion using optical character recognition(OCR)
 
 ### Overview
 
-Digimate allows you to extract text from camera preview directly. It is an experimental application for Android that performs optical character recognition (OCR) on images captured using the device camera.
+Trinetra allows you to extract text from camera preview directly. It is an experimental application for Android that performs optical character recognition (OCR) on images captured using the device camera.
 
 Runs the Tesseract OCR engine using [tess-two](https://github.com/rmtheis/tess-two), a fork of Tesseract Tools for Android.
 
