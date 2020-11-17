@@ -1,4 +1,4 @@
-**TRINETRA**
+# TRINETRA
 ### About the project:
 
      $ The project  allows the users to scan the documents and share the photo as pdf and
