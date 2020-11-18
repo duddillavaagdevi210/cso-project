@@ -69,6 +69,14 @@
 
    <img src="https://user-images.githubusercontent.com/69378318/99490009-f9531a80-298e-11eb-9c9f-294bd939f0f9.png" align="left" width="200" height="400" alt="Main Screen" />
    <img src="https://user-images.githubusercontent.com/69378318/99486228-ed188e80-2989-11eb-8e2a-adef959a1db2.png" align="left" width="200" height="400" />
+   <img src="https://user-images.githubusercontent.com/69378318/99490780-88146700-2990-11eb-90ab-8e910e5a2916.png" align="left" width="200" height="400" />
+  <img src="https://user-images.githubusercontent.com/69378318/99490742-78951e00-2990-11eb-8d76-3134f9d42457.png" align="left" width="200" height="400" />
+  <img src="https://user-images.githubusercontent.com/69378318/99490652-42f03500-2990-11eb-9429-b02e4a498299.png" align="left" width="200" height="400" />
+  
+  
+
+
+
    
    
 
