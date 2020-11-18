@@ -66,8 +66,9 @@
    
    
 
-   
-   <img src="https://user-images.githubusercontent.com/69378318/99486228-ed188e80-2989-11eb-8e2a-adef959a1db2.png" width="200" height="400" />
+
+   <img src="https://user-images.githubusercontent.com/69378318/99490009-f9531a80-298e-11eb-9c9f-294bd939f0f9.png" align="left" width="200" height="400" alt="Main Screen" />
+   <img src="https://user-images.githubusercontent.com/69378318/99486228-ed188e80-2989-11eb-8e2a-adef959a1db2.png" align="left" width="200" height="400" />
    
    
 
