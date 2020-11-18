@@ -54,7 +54,9 @@
         database and high adaptability to untrained inputs with only a small number of features to calculate.
         
 ### Screenshots
+      
       [WhatsApp Image 2020-11-17 at 10 51 07 PM](https://user-images.githubusercontent.com/69350514/99480197-9d33ca80-297d-11eb-94bb-c84ff5285f92.jpeg)
+
 
 ### Future Direction
 
