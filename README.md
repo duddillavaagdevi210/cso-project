@@ -53,8 +53,6 @@
      -  The system has its advantages such as automation of mundane tasks ,less time complexity ,very small
         database and high adaptability to untrained inputs with only a small number of features to calculate.
         
-
-
 ### Future Direction
 
      - Government bodies, archivists, publishers etc. have a large number of printed documents stored physically
@@ -64,3 +62,4 @@
        flipping the pages. Our system will generate a indexed digital version of the document by using cloud based 
        OCR (Optical character recognition).
 
+     ![WhatsApp Image 2020-11-17 at 10 51 07 PM](https://user-images.githubusercontent.com/69350514/99480845-e9333f00-297e-11eb-9fa7-181845b32142.jpeg)
