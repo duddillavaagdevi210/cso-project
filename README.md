@@ -64,10 +64,10 @@
        
  ### Screen shots
    
-   ![WhatsApp Image 2020-11-18 at 9 28 15 AM (1)](https://user-images.githubusercontent.com/69378318/99486228-ed188e80-2989-11eb-8e2a-adef959a1db2.png)
+   
 
    
-   
+   <img src="https://user-images.githubusercontent.com/69378318/99486228-ed188e80-2989-11eb-8e2a-adef959a1db2.png" width="200" height="400" />
    
    
 
