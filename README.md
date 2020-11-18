@@ -64,5 +64,8 @@
        
  ### Screen shots
    ![WhatsApp Image 2020-11-18 at 9 28 15 AM](https://user-images.githubusercontent.com/69378318/99481838-fc470e80-2980-11eb-8772-435ff0d0aae9.jpeg)
+   ![WhatsApp Image 2020-11-18 at 9 28 15 AM (1)](https://user-images.githubusercontent.com/69378318/99482368-bc345b80-2981-11eb-99ae-5788eb29d23b.jpeg)
+
+
 
 
