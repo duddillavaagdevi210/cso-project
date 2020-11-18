@@ -69,15 +69,13 @@
  ### A few glimpses of our app:  
 
 
-   <img src="https://user-images.githubusercontent.com/69378318/99490009-f9531a80-298e-11eb-9c9f-294bd939f0f9.png" align="left" width="200" height="400" alt="Main Screen" />
+   <img src="https://user-images.githubusercontent.com/69350514/99569632-df4d2280-29f6-11eb-899f-e9a99b66e9a3.png" align="left" width="200" height="400" alt="Main Screen" />
    
-   <img src="https://user-images.githubusercontent.com/69378318/99486228-ed188e80-2989-11eb-8e2a-adef959a1db2.png" align="left" width="200" height="400" />
+   <img src="https://user-images.githubusercontent.com/69350514/99569639-e2e0a980-29f6-11eb-93c0-9d4338f85786.png" align="left" width="200" height="400" />
    
-   <img src="https://user-images.githubusercontent.com/69378318/99490780-88146700-2990-11eb-90ab-8e910e5a2916.png" align="left" width="200" height="400" />
+   <img src="https://user-images.githubusercontent.com/69350514/99569645-e4aa6d00-29f6-11eb-91bc-9976450536d8.png" align="left" width="200" height="400" />
    
-   <img src="https://user-images.githubusercontent.com/69378318/99490742-78951e00-2990-11eb-8d76-3134f9d42457.png" align="left" width="200" height="400" />
-   
-   <img src="https://user-images.githubusercontent.com/69378318/99490652-42f03500-2990-11eb-9429-b02e4a498299.png" align="left" width="200" height="400" />
+   <img src="https://user-images.githubusercontent.com/69350514/99569655-e8d68a80-29f6-11eb-853d-bf53a8d425fd.png" align="left" width="200" height="400" />
    
    <img src="https://user-images.githubusercontent.com/69378318/99492736-1c33fd80-2994-11eb-9dc0-4ad053a457e3.png" align="left" width="200" height="400" />
    
@@ -90,7 +88,8 @@
    <img src="https://user-images.githubusercontent.com/69378318/99492780-2eae3700-2994-11eb-9ca7-c4836cfd1a1e.png" align="left" width="200" height="400" />
    
    <img src="https://user-images.githubusercontent.com/69378318/99492789-31a92780-2994-11eb-80df-42f762013d77.png" align="left" width="200" height="400" />
-
+   
+  
 
 
   
