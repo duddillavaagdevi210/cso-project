@@ -62,4 +62,7 @@
        flipping the pages. Our system will generate a indexed digital version of the document by using cloud based 
        OCR (Optical character recognition).
 
-     ![WhatsApp Image 2020-11-17 at 10 51 07 PM](https://user-images.githubusercontent.com/69350514/99480845-e9333f00-297e-11eb-9fa7-181845b32142.jpeg)
+### screen shots    
+   
+   https://user-images.githubusercontent.com/69350514/99480845-e9333f00-297e-11eb-9fa7-181845b32142.jpeg
+
