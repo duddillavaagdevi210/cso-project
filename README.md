@@ -52,12 +52,18 @@
         
 ### Future Direction
 
-     - Make this app accessible to Government bodies, archivists, publishers etc. that have a large number of printed documents stored physically which is inconvenient in              searching, securing and maintaining as compared to digital documents.
+     - Make this app accessible to Government bodies, archivists, publishers etc. that have 
+          a large number of printed documents stored physically which is inconvenient in 
+          searching, securing and maintaining as compared to digital documents.
      - Enhance the features of the app further like crop and binarize features.
      - Integrating the voice assistance feature to our existing application. 
-     - Make this app more accessible, especially the blind or people requiring reading assistance by reading it aloud for them using the accessibility feature.
+     - Make this app more accessible, especially the blind or people requiring reading assistance
+          by reading it aloud for them using the accessibility feature.
      - We want to further develop the file management for this app.
-     - Hence, this app can be a perfect one for users to perform many actions in few minutes, such as convert and save text from these afore mentioned documents and also use            them to recite later. This application will help us digitalize documents instead wasting time on retyping the text.
+     - Hence, this app can be a perfect one for users to perform many actions in few minutes,
+          such as convert and save text from these afore mentioned documents and also use
+          them to recite later.
+     - This application will help us digitalize documents instead wasting time on retyping the text.
 
        
  ### A few glimpses of our app:  
