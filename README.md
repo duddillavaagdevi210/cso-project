@@ -61,4 +61,8 @@
      - We plan to build a prototype that will digitally migrate printed documents to editable text, without manually 
        flipping the pages. Our system will generate a indexed digital version of the document by using cloud based 
        OCR (Optical character recognition).
+       
+ ### Screen shots
+   ![WhatsApp Image 2020-11-18 at 9 28 15 AM](https://user-images.githubusercontent.com/69378318/99481838-fc470e80-2980-11eb-8772-435ff0d0aae9.jpeg)
+
 
