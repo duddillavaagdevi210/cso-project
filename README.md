@@ -1,40 +1,37 @@
 # TRINETRA
 ### About the project:
 
-     $ The project  allows the users to scan the documents and share the photo as pdf and
-     Also we can do multiple  operations with it like cropping  the image ,rotate the  image in a  convenient
+     The project  allows the users to scan the documents and share the photo as pdf and
+     Also we can do multiple  operations with it like cropping  the image, rotate the image in a convenient
      way,binarize the image and search for a text in the document.
     
 ### Objective of trinetra:
 
-     $ Picture taken  by an android based device  inorder to recite later. This application  will allow it's
-     users to perform  many actions in few minutes,such as copy text  from these  afermentioned  documents 
-     and modifying  it , instead of  wasting time  on retyping it.
-    
-     $ It should further  be able to search  for given keywords in the text  identified and also  generate a pdf.
+     - An android app capable of capturing specified number of images.
+     - An app to crop the images captured as required.
+     - An app capable of enhancing the image, i.e. binarizing the image.
+     - This app also recognizes the text in this image.
+     - This android app is further able to search for given keywords in the text identified and also generate a pdf.
+     - And it can also store it in the local device.
+
     
 ### Techonology used in the project :
      
-     $ An android application for image to text coversion using Optical Character Recognition (OCR)
-     
-     $ Language used :Java
-     
+     - Android Studio
+     - API used for image to text conversion is: Tesseract OCR(tesseract  or tess-2) api.
+     - Language used: java 
+
 ### Main features :
        
-     $ Covert images to pdf
-     $ Recognize text in images
-     $ Basic document management
-     $ Search text in generated content
-       
- ### Installation :
- 
-     $ To build and run the app, clone this project, open it as an existing project in Android Studio and run it.
+     - Capture images and convert them to pdf
+     - Crop, binarize the captured images.
+     - Recognize text in images
+     - Search text in generated content
+     - Basic document management
       
-  
  ### Support
 
      - Android 4.0 +
-
 
  ### Advantages
 
@@ -55,29 +52,38 @@
         
 ### Future Direction
 
-     - Government bodies, archivists, publishers etc. have a large number of printed documents stored physically
-       which is inconvenient in searching, securing and maintaining as compared to digital documents.
+     - Make this app accessible to Government bodies, archivists, publishers etc. that have a large number of printed documents stored physically which is inconvenient in              searching, securing and maintaining as compared to digital documents.
+     - Enhance the features of the app further like crop and binarize features.
+     - Integrating the voice assistance feature to our existing application. 
+     - Make this app more accessible, especially the blind or people requiring reading assistance by reading it aloud for them using the accessibility feature.
+     - We want to further develop the file management for this app.
+     - Hence, this app can be a perfect one for users to perform many actions in few minutes, such as convert and save text from these afore mentioned documents and also use            them to recite later. This application will help us digitalize documents instead wasting time on retyping the text.
 
-     - We plan to build a prototype that will digitally migrate printed documents to editable text, without manually 
-       flipping the pages. Our system will generate a indexed digital version of the document by using cloud based 
-       OCR (Optical character recognition).
        
- ### Screen shots
-   
-   
+ ### A few glimpses of our app:  
 
 
    <img src="https://user-images.githubusercontent.com/69378318/99490009-f9531a80-298e-11eb-9c9f-294bd939f0f9.png" align="left" width="200" height="400" alt="Main Screen" />
+   
    <img src="https://user-images.githubusercontent.com/69378318/99486228-ed188e80-2989-11eb-8e2a-adef959a1db2.png" align="left" width="200" height="400" />
+   
    <img src="https://user-images.githubusercontent.com/69378318/99490780-88146700-2990-11eb-90ab-8e910e5a2916.png" align="left" width="200" height="400" />
-  <img src="https://user-images.githubusercontent.com/69378318/99490742-78951e00-2990-11eb-8d76-3134f9d42457.png" align="left" width="200" height="400" />
-  <img src="https://user-images.githubusercontent.com/69378318/99490652-42f03500-2990-11eb-9429-b02e4a498299.png" align="left" width="200" height="400" />
-  <img src="https://user-images.githubusercontent.com/69378318/99492736-1c33fd80-2994-11eb-9dc0-4ad053a457e3.png" align="left" width="200" height="400" />
-  <img src="https://user-images.githubusercontent.com/69378318/99492760-2524cf00-2994-11eb-9a3d-c33f41abd592.png" align="left" width="200" height="400" />
-  <img src="https://user-images.githubusercontent.com/69378318/99492765-281fbf80-2994-11eb-9b59-05355c3a74f0.png" align="left" width="200" height="400" />
-  <img src="https://user-images.githubusercontent.com/69378318/99492775-2bb34680-2994-11eb-8464-c2e636816ffa.png" align="left" width="200" height="400" />
-  <img src="https://user-images.githubusercontent.com/69378318/99492780-2eae3700-2994-11eb-9ca7-c4836cfd1a1e.png "align="left" width="200" height="400" />
-  <img src="https://user-images.githubusercontent.com/69378318/99492789-31a92780-2994-11eb-80df-42f762013d77.png" align="left" width="200" height="400" />
+   
+   <img src="https://user-images.githubusercontent.com/69378318/99490742-78951e00-2990-11eb-8d76-3134f9d42457.png" align="left" width="200" height="400" />
+   
+   <img src="https://user-images.githubusercontent.com/69378318/99490652-42f03500-2990-11eb-9429-b02e4a498299.png" align="left" width="200" height="400" />
+   
+   <img src="https://user-images.githubusercontent.com/69378318/99492736-1c33fd80-2994-11eb-9dc0-4ad053a457e3.png" align="left" width="200" height="400" />
+   
+   <img src="https://user-images.githubusercontent.com/69378318/99492760-2524cf00-2994-11eb-9a3d-c33f41abd592.png" align="left" width="200" height="400" />
+   
+   <img src="https://user-images.githubusercontent.com/69378318/99492765-281fbf80-2994-11eb-9b59-05355c3a74f0.png" align="left" width="200" height="400" />
+   
+   <img src="https://user-images.githubusercontent.com/69378318/99492775-2bb34680-2994-11eb-8464-c2e636816ffa.png" align="left" width="200" height="400" />
+   
+   <img src="https://user-images.githubusercontent.com/69378318/99492780-2eae3700-2994-11eb-9ca7-c4836cfd1a1e.png "align="left" width="200" height="400" />
+   
+   <img src="https://user-images.githubusercontent.com/69378318/99492789-31a92780-2994-11eb-80df-42f762013d77.png" align="left" width="200" height="400" />
 
 
 
