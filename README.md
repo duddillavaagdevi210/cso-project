@@ -63,10 +63,7 @@
        OCR (Optical character recognition).
        
  ### Screen shots
-   ![WhatsApp Image 2020-11-18 at 9 28 15 AM](https://user-images.githubusercontent.com/69378318/99481838-fc470e80-2980-11eb-8772-435ff0d0aae9.jpeg )
-   ![WhatsApp Image 2020-11-18 at 9 28 15 AM (1)](https://user-images.githubusercontent.com/69378318/99482368-bc345b80-2981-11eb-99ae-5788eb29d23b.jpeg )
-   ![WhatsApp Image 2020-11-18 at 9 28 16 AM](https://user-images.githubusercontent.com/69378318/99482689-88a60100-2982-11eb-8117-c23d2b986c90.jpeg )
-   ![WhatsApp Image 2020-11-18 at 9 28 17 AM](https://user-images.githubusercontent.com/69378318/99483695-c60b8e00-2984-11eb-9f19-ab3e4302bbe3.jpeg )
+   
    ![WhatsApp Image 2020-11-18 at 9 28 15 AM (1)](https://user-images.githubusercontent.com/69378318/99486228-ed188e80-2989-11eb-8e2a-adef959a1db2.png {width=40px height=400px})
 
    
